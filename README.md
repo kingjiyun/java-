@@ -1,1 +1,1 @@
-# java연습
+# java-prac
